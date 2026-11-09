@@ -62,7 +62,7 @@
         "wk:page":"Mala%27e_(Futuna)"
     },
     "wof:country":"WF",
-    "wof:geomhash":"ec2dd91fde9e0205ab54f14edc4bab15",
+    "wof:geomhash":"2b68cba9b5bfd32cfdf29ac4c898e728",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,5 +89,5 @@
     -176.19346000000004,
     -13.24435
 ],
-  "geometry": {"coordinates":[-176.19346000000004,-13.24435],"type":"Point"}
+  "geometry": {"coordinates":[-176.19346,-13.24435],"type":"Point"}
 }

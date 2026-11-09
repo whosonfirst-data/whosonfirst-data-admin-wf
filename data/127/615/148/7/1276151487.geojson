@@ -41,7 +41,7 @@
         "gn:id":4034865
     },
     "wof:country":"WF",
-    "wof:geomhash":"1644a04bf960a81031a17856ffee823c",
+    "wof:geomhash":"f429cd6c6710aa1d4fbacdf109afedda",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     -178.09288999999995,
     -14.29445
 ],
-  "geometry": {"coordinates":[-178.09288999999995,-14.29445],"type":"Point"}
+  "geometry": {"coordinates":[-178.09289,-14.29445],"type":"Point"}
 }

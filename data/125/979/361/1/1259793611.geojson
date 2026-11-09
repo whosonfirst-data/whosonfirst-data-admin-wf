@@ -43,7 +43,7 @@
         "gn:id":10649227
     },
     "wof:country":"WF",
-    "wof:geomhash":"cd794ed59409611a08d6bd64b9c6974b",
+    "wof:geomhash":"78aff3998a942f092576e7ac3673dfd3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,5 +70,5 @@
     -176.20561999999995,
     -13.25922
 ],
-  "geometry": {"coordinates":[-176.20561999999995,-13.25922],"type":"Point"}
+  "geometry": {"coordinates":[-176.20562,-13.25922],"type":"Point"}
 }
