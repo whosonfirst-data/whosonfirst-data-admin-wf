@@ -1,0 +1,75 @@
+{
+  "id": 9895092573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.06897,-14.33546,-178.06897,-14.33546",
+    "geom:latitude":-14.33546,
+    "geom:longitude":-178.06897,
+    "iso:country":"WF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11881005: name \"Keu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11881005"
+        },
+        {
+            "citation":"GeoNames populated place 11881005: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11881005"
+        },
+        {
+            "citation":"GeoNames populated place 11881005: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11881005"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680905 (Alo), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        85680905,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11881005
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"0a9f683e7095e1f98db694a746e8a3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":9895092573,
+            "region_id":85680905
+        }
+    ],
+    "wof:id":9895092573,
+    "wof:lastmodified":1795746197,
+    "wof:name":"Keu",
+    "wof:parent_id":85680905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.06897,
+    -14.33546,
+    -178.06897,
+    -14.33546
+],
+  "geometry": {"coordinates":[-178.06897,-14.33546],"type":"Point"}
+}
