@@ -1,0 +1,76 @@
+{
+  "id": 9895060972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.1515,-14.25467,-178.1515,-14.25467",
+    "geom:latitude":-14.25467,
+    "geom:longitude":-178.1515,
+    "gn:population":2,
+    "iso:country":"WF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11880901: name \"Tuatafa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11880901"
+        },
+        {
+            "citation":"GeoNames populated place 11880901: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11880901"
+        },
+        {
+            "citation":"GeoNames populated place 11880901: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11880901"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680897 (Sigave), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        85680897,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11880901
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"db9be040ff040fba157c6c807e0fcb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":9895060972,
+            "region_id":85680897
+        }
+    ],
+    "wof:id":9895060972,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Tuatafa",
+    "wof:parent_id":85680897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.1515,
+    -14.25467,
+    -178.1515,
+    -14.25467
+],
+  "geometry": {"coordinates":[-178.1515,-14.25467],"type":"Point"}
+}
